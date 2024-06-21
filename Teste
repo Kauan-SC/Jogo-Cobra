@@ -1,0 +1,70 @@
+Teste de Movimento da Cobra
+Objetivo: Verificar se a cobra se move corretamente em resposta às teclas pressionadas.
+
+Passos:
+Iniciar o jogo.
+Pressionar as teclas de movimento (W, A, S, D).
+Verificar se a posição da cobra muda na direção esperada.
+Verificar se a cobra não pode se mover na direção oposta à sua direção atual.
+Verificar se a cobra não sai das bordas da tela.
+2. Teste de Crescimento da Cobra ao Comer
+Objetivo: Verificar se a cobra cresce ao comer a comida.
+
+Passos:
+Iniciar o jogo.
+Mover a cobra até a comida.
+Verificar se o tamanho da cobra aumenta após comer.
+Verificar se a comida reaparece em uma nova posição após a cobra comer.
+3. Teste de Colisão da Cobra com a Parede ou com ela mesma
+Objetivo: Verificar se o jogo termina corretamente quando a cobra colide com a parede ou com ela mesma.
+
+Passos:
+Iniciar o jogo.
+Fazer a cobra colidir com as bordas da tela.
+Verificar se o jogo mostra a mensagem de fim de jogo.
+Fazer a cobra colidir consigo mesma.
+Verificar se o jogo mostra a mensagem de fim de jogo.
+4. Teste de Reinício do Jogo
+Objetivo: Verificar se o jogo pode ser reiniciado após terminar.
+
+Passos:
+Iniciar o jogo.
+Terminar o jogo por colisão com a parede ou com a própria cobra.
+Pressionar a tecla para reiniciar o jogo (C).
+Verificar se o jogo reinicia corretamente.
+5. Teste de Interface Gráfica
+Objetivo: Verificar a exibição correta dos elementos gráficos do jogo.
+
+Passos:
+Iniciar o jogo.
+Verificar se o título do jogo está sendo exibido corretamente.
+Verificar se a cobra, a comida e as bordas da tela são desenhadas corretamente.
+Verificar se as mensagens de fim de jogo são exibidas corretamente.
+6. Teste de Performance
+Objetivo: Verificar se o jogo mantém uma taxa de quadros (FPS) aceitável mesmo com a cobra crescendo e movendo-se rapidamente.
+
+Passos:
+Iniciar o jogo.
+Fazer a cobra crescer continuamente comendo comida.
+Mover a cobra rapidamente por toda a tela.
+Verificar se o jogo mantém uma taxa de quadros (FPS) estável e aceitável.
+7. Teste de Entrada do Usuário
+Objetivo: Verificar se o jogo responde corretamente às entradas do usuário.
+
+Passos:
+Iniciar o jogo.
+Pressionar teclas de movimento (W, A, S, D) rapidamente e em sequência.
+Verificar se todas as entradas são registradas e a cobra se move conforme esperado.
+Testar tempos de resposta do jogo às entradas do usuário.
+8. Teste de Encerramento do Jogo
+Objetivo: Verificar se o jogo pode ser fechado corretamente.
+
+Passos:
+Iniciar o jogo.
+Fechar a janela do jogo.
+Verificar se o jogo encerra sem erros ou falhas.
+Observações Gerais
+Ambiente de Teste: Certifique-se de que o ambiente de teste tenha o Pygame e suas dependências corretamente configuradas.
+Documentação de Teste: Registrar resultados de testes, incluindo passos seguidos e resultados obtidos.
+Automatização: Para casos de teste que podem ser automatizados (como movimento da cobra e detecção de colisões), considere criar scripts ou usar frameworks como Pytest para automação.
+Este plano de teste abrange os principais aspectos do jogo da cobra e deve ser adaptado conforme necessário para atender às especificidades do jogo em desenvolvimento.
