@@ -1,0 +1,40 @@
+1. What (O que?)
+O que é o projeto?
+
+Desenvolvimento de um jogo da cobra (Snake Game) em Python, utilizando a biblioteca Pygame.
+2. Why (Por que?)
+Por que esse projeto é importante?
+
+Aprendizado e prática de programação: Desenvolver um jogo simples é uma excelente maneira de praticar lógica de programação, controle de fluxo e manipulação de gráficos.
+Diversão e entretenimento: O jogo da cobra é um clássico e pode ser uma forma divertida de jogar e compartilhar com amigos.
+Portfólio: Adicionar um projeto completo de jogo ao portfólio pode ser valioso para futuras oportunidades de emprego ou estudo.
+3. Who (Quem?)
+Quem está envolvido ou é afetado por este projeto?
+
+Desenvolvedor(es): Programador que está criando o jogo.
+Usuários finais: Pessoas que jogarão o jogo da cobra.
+4. Where (Onde?)
+Onde o projeto será desenvolvido e utilizado?
+
+Desenvolvimento: O jogo será desenvolvido localmente no computador do desenvolvedor utilizando o PyCharm ou outro IDE.
+Utilização: O jogo pode ser distribuído e jogado em qualquer computador que tenha o Python e a biblioteca Pygame instalados. Pode também ser compartilhado via GitHub.
+5. When (Quando?)
+Quando o projeto será realizado?
+
+Desenvolvimento: Pode começar imediatamente e o tempo de desenvolvimento pode variar de alguns dias a semanas, dependendo da complexidade e das funcionalidades adicionadas.
+Lançamento: Assim que o jogo estiver funcional e testado, pode ser lançado e compartilhado.
+6. How (Como?)
+Como o projeto será realizado?
+
+Ferramentas: Utilizando Python e a biblioteca Pygame para desenvolvimento.
+Etapas:
+Instalação do Python e Pygame.
+Configuração do ambiente de desenvolvimento.
+Desenvolvimento do código base para o jogo.
+Testes e ajustes de funcionalidades.
+Publicação e compartilhamento do jogo.
+7. How Much (Quanto?)
+Quanto vai custar ou quais são os recursos necessários?
+
+Custos: Se o desenvolvedor já possui um computador e conexão à internet, os custos financeiros são mínimos, uma vez que Python e Pygame são gratuitos.
+Recursos: Tempo e dedicação do desenvolvedor, um computador para programar, e conhecimento básico de Python e Pygame.
